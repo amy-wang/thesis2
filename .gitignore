@@ -1,0 +1,7 @@
+  
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.idea/
+*.csv
+temperature/2017.csv.gz
+*.txt
